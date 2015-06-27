@@ -32,8 +32,6 @@ int WINAPI WinMain (HINSTANCE hThisInstance,
     wincl.style = CS_DBLCLKS;                 /* Catch double-clicks */
     wincl.cbSize = sizeof (WNDCLASSEX);
 
-    wincl.hIconSm = LoadIcon(hThisInstance,MAKEINTRESOURCE(ICO32));
-    wincl.hIcon = LoadIcon(hThisInstance,MAKEINTRESOURCE(ICO16));
     wincl.hCursor = LoadCursor (NULL, IDC_ARROW);
     wincl.lpszMenuName = NULL;                 /* No menu */
     wincl.cbClsExtra = 0;                      /* No extra bytes after the window class */
