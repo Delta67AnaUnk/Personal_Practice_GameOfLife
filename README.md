@@ -9,4 +9,4 @@ Click on one cell to activate or deactivate it. Any click will pause the game.
 Can store the current state into a file and load it later.
 Under borderless mode, the left border is treated as neighbor to the right border, and the top border is treated as neighbor to the bottom border.
 
-PS. Originally I used Code::Blocks to write this project and recently I just installed VS2013. So there may be some changes.
+PS. Originally I used Code::Blocks to write this project and recently I just installed VS2013. So there may be some changes (Such as linking dx dlls, etc.).
