@@ -2,7 +2,6 @@
 #include "GameMain.h"
 #include <iostream>
 #include <windowsx.h>
-#include "resource.h"
 using namespace std;
 
 #define fps 50
